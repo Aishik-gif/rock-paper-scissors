@@ -89,3 +89,5 @@ function game() {
         alert('Draw');
     }
 }
+
+game();
